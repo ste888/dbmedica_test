@@ -1,10 +1,8 @@
 /****************************************************************************
-*
 *  Title :     Codeloader
 *  Author:     Alessandro Galli [a.galli85(at)gmail.com]
 *  Date :      29/01/2013 @ 10:20
 *  Version :   1.1
-*
 *  Description: Dynamic loader of javascript code and css, they can be loaded and 
 *               executed after page load on request.
 *               
@@ -18,7 +16,6 @@
 *           codeloader.addScript('/myjavascripts/dummy.js',function(){ 
 *                                                     alert('my callback!') 
 *                                                    })
-*
 ****************************************************************************/
 function codeloader(){
     var debug=false;
