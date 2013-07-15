@@ -1,7 +1,6 @@
 /****************************************************************************
 *
 *  Title :     Codeloader
-*
 *  Author:     Alessandro Galli [a.galli85(at)gmail.com]
 *  Date :      29/01/2013 @ 10:20
 *  Version :   1.1
